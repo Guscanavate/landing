@@ -16,10 +16,27 @@ div footer {
 * {
   margin: 0%;
   padding: 0%;
+}
+
+.light {
+  background-color: #e8f0fe;
+}
+
+.dark {
   background-color: #2e3336;
 }
 
-.carrousel-item h6 {
-  color: aqua;
+.pt-1 {
+  padding-top: 1 !important;
+}
+
+.home {
+  text-decoration: none;
+  color: #000;
+}
+
+.goto {
+  color: #2e3336;
+  text-decoration: none;
 }
 /*# sourceMappingURL=estilos.css.map */
